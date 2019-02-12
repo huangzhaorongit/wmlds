@@ -180,25 +180,41 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 
 
 WARNING! Your Node version is not LTS (Long Term Support), use it at your own risk! JHipster does not support non-LTS releases, so if you encounter a bug, please use a LTS version first.
+
 ? Which *type* of application would you like to create? Monolithic application (
 recommended for simple projects)
+
 ? What is the base name of your application? wmlds
+
 ? What is your default Java package name? com.wamoli.sd
+
 ? Do you want to use the JHipster Registry to configure, monitor and scale your
 application? No
+
 ? Which *type* of authentication would you like to use? JWT authentication (stat
-eless, with a token)
+
 ? Which *type* of database would you like to use? SQL (H2, MySQL, MariaDB, Postg
 reSQL, Oracle, MSSQL)
+
 ? Which *production* database would you like to use? MySQL
+
 ? Which *development* database would you like to use? MySQL
+
 ? Do you want to use the Spring cache abstraction? Yes, with the Ehcache impleme
 ntation (local cache, for a single node)
+
 ? Do you want to use Hibernate 2nd level cache? Yes
+
 ? Would you like to use Maven or Gradle for building the backend? Maven
+
 ? Which other technologies would you like to use?
+
 ? Which *Framework* would you like to use for the client? Angular
+
 ? Would you like to enable *SASS* stylesheet preprocessor? Yes
+
 ? Would you like to enable internationalization support? No
+
 ? Besides JUnit and Jest, which testing frameworks would you like to use?
+
 ? Would you like to install other generators from the JHipster Marketplace? No
