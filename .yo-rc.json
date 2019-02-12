@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.wamoli.sd"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "monolith",
+    "baseName": "wmlds",
+    "packageName": "com.wamoli.sd",
+    "packageFolder": "com/wamoli/sd",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDEyZmU1ZDk4NzYzZmE4NGYwNTliYzJjMzQ4ZjA0MzhmMmQ1ODE2YTM5MDZkNWZlZTI3OTNmOWRmYzJmODYyNzM3NzVjNDFiMTlkYzNiNGEwMWU5ZTJjZjAxNWJjODk2MDc1NGZiNWI1ZmNkNDhhNTIwODdmZTYyYjAwNzNhYWE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
