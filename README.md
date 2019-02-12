@@ -1,6 +1,6 @@
 # wmlds
 
-https://travis-ci.com/huangzhaorongit/wmlds.svg?branch=master
+[![Build Status](https://travis-ci.com/huangzhaorongit/wmlds.svg?branch=master)](https://travis-ci.com/huangzhaorongit/wmlds)
 
 This application was generated using JHipster 5.8.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.1](https://www.jhipster.tech/documentation-archive/v5.8.1).
 
